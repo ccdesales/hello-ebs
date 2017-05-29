@@ -1,0 +1,2 @@
+eb setenv AWS_ACCESS_KEY_ID='Foo' \
+	AWS_SECRET_ACCESS_KEY='Bar'
