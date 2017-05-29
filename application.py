@@ -6,7 +6,7 @@ application = Flask(__name__)
 def hello_world():
     lang = os.getenv('SITE_LANG', 'EN')
 
-    if False and lang == 'DE':
+    if lang == 'DE':
         return 'Hallo, Welt!'
 
     return 'Hello, World!'
