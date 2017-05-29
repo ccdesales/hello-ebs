@@ -1,0 +1,4 @@
+awsebcli==3.10.1
+boto3==1.4.4
+Flask==0.12.2
+awscli==1.11.90
